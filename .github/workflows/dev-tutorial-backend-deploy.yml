@@ -44,7 +44,7 @@ jobs:
           [
             {
               "name": "MONGODB_CONNECTION_STRING",
-              "value": "mongodb://cosmos-ps-tutorial-dev-001:jWC4kU2fO6gryXdrHFY2Q5qpmVevMFMx86mD3OLZxDaBDVHo2a3yWcNmjQwRswgtbeqJr0IAAV2dyKgKeej9mQ==@cosmos-ps-tutorial-dev-001.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@cosmos-ps-tutorial-dev-001@",
+              "value": "mongodb://cosmos-ps-tutorial-001:Mo5HUNz6SEOtKyGnttP5xxbgWP79T5pynPbJxQ3SAnld4w8ZQOrbsjd0LDiJAk1IW4ALYzkUrCLEjH3ip48JUg==@cosmos-ps-tutorial-001.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@cosmos-ps-tutorial-001@",
               "slotSetting": false
             },
             {
